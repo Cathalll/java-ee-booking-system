@@ -21,10 +21,13 @@ Once the site is running on the server, you can login using the following creden
 
 Admin
 
-email:admin@trainingcentre.com
+email:
+admin@trainingcentre.com
 
 password:
 P12345678#
+
+__
 
 Teacher
 
@@ -32,7 +35,7 @@ email:
 terrence@trainingcentre.com
 password:
 P12345678#
-
+__
 Student
 email:
 tobytertiary@university.com
