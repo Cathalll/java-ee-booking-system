@@ -58,7 +58,11 @@ JDK 17
 
 
 CSS/JS dependencies (all hotlinked from CDNs):
+
 Bootstrap 4.1.3
+
 jQuery 3.6
+
 JS 1.14.3
+
 jQuery Datatables 1.10.20
